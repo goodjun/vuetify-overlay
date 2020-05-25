@@ -1,6 +1,7 @@
 # Vuetify Overlay
 
-> Inspired by https://github.com/eolant/vuetify-toast-snackbar
+> Simple to use, Vuetify overlay component. 
+> Github: https://github.com/goodjun/vuetify-overlay
 
 <p>
 <a href="https://www.npmjs.com/package/vuetify-overlay"><img src="https://img.shields.io/npm/v/vuetify-overlay.svg?sanitize=true" alt="Version"></a>
@@ -33,3 +34,5 @@ this.$overlay(true);
 // Close overlay
 this.$overlay(false);
 ```
+
+### Inspired by https://github.com/eolant/vuetify-toast-snackbar
